@@ -1,0 +1,22 @@
+/*
+Theme Name: Theme_mowali copie
+Author: ITSS
+Description: Template WordPress pour le site mowali v 2
+Version: 0.0.1
+Tags: bootstrap
+*/
+.header {
+background: #377bb5;
+}
+.bande_noire_header {
+background: #377bb5;
+}
+#navigation-principale li {
+position: relative;
+display: inline-block;
+padding: 10px;
+font-weight: 500;
+}
+#navigation-principale li a {
+color: #fff;
+}
